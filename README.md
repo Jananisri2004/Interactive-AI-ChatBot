@@ -1,0 +1,1 @@
+This project demonstrate the development of AI ChatBot capable of engaging in natural language conversations. Built using NLP algorithm, the chatbot provides informative responses and completes task as requested.
